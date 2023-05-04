@@ -1,0 +1,9 @@
+interface Schedule {
+
+  public void priority(); //arranges tasks in high and low priority
+  public void sortedLists(); //sorts the lists of tasks in ascending or descending order
+  public void digits(); //divides the tasks into seperate numbers 
+  public void subList(); //divides the lists in different catefories such as lists with duplicate numbers
+  public void showLists();
+
+}
